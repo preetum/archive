@@ -1,1 +1,0 @@
-D:\code\R12\KinectTurret\TrackerXNA\TrackerXNAContent\obj\x86\Debug\ResolveAssemblyReference.cache
