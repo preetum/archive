@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="UnitsAndBuilduings.SettingsTypeInfo">
+    <Settings>
+      <Item>
+        <Key>BuildScroll</Key>
+        <Value Type="System.Single">1.0</Value>
+      </Item>
+      <Item>
+        <Key>Minimap</Key>
+        <Value Type="Microsoft.Xna.Framework.Rectangle">
+          10
+          10
+          380
+          220
+        </Value>
+      </Item>
+      <Item>
+        <Key>StartHumanBuildings</Key>
+        <Value Type="System.String[]">
+          <Item>DefenseDept_h</Item>
+          <Item>Baraks</Item>
+          <Item>Outpost</Item>
+          <Item>Mage Tower</Item>
+        </Value>
+      </Item>
+      <Item>
+        <Key>StartWumpusBuildings</Key>
+        <Value Type="System.String[]">
+          <Item>DefenseDept_w</Item>
+          <Item>Spawning Pit</Item>
+          <Item>Slime Pit</Item>
+          <Item>Mage Tower</Item>
+        </Value>
+      </Item>
+      <Item>
+        <Key>StartHumanUnits</Key>
+        <Value Type="System.String[]">
+          <Item>Troy</Item>
+          <Item>Troy</Item>
+          <Item>Miner</Item>
+          <Item>Miner</Item>
+          <Item>King</Item>
+        </Value>
+      </Item>
+      <Item>
+        <Key>StartWumpusUnits</Key>
+        <Value Type="System.String[]">
+          <Item>GelCube</Item>
+          <Item>GelCube</Item>
+          <Item>Mite</Item>
+          <Item>Mite</Item>
+          <Item>Mite</Item>
+          <Item>Mite</Item>
+          <Item>Balrog</Item>
+        </Value>
+      </Item>
+      <Item>
+        <Key>Camera Speed</Key>
+        <Value Type="System.Single">5</Value>
+      </Item>
+      <Item>
+        <Key>Y Scroll</Key>
+        <Value Type="System.Single">.7</Value>
+      </Item>
+      <Item>
+        <Key>X Scroll</Key>
+        <Value Type="System.Single">.7</Value>
+      </Item>
+      <Item>
+        <Key>Grid Size</Key>
+        <Value Type ="System.Single">1</Value>
+      </Item>
+    </Settings>
+  </Asset>
+</XnaContent>

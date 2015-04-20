@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="UnitsAndBuilduings.SettingsTypeInfo">
+    <Settings>
+      <Item>
+        <Key>Camera Speed</Key>
+        <Value Type="System.Single">5</Value>
+      </Item>
+      <Item>
+        <Key>Grid Size</Key>
+        <Value Type="System.Int32">1</Value>
+      </Item>
+      <Item>
+        <Key>Y Scroll</Key>
+        <Value Type="System.Single">.6</Value>
+      </Item>
+      <Item>
+        <Key>X Scroll</Key>
+        <Value Type="System.Single">.6</Value>
+      </Item>
+    </Settings>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,6 @@
+D:\code\omron\trunk\UnitsAndBuilduings\bin\x86\Debug\UnitsAndBuilduings.dll
+D:\code\omron\trunk\UnitsAndBuilduings\bin\x86\Debug\UnitsAndBuilduings.pdb
+D:\code\omron\trunk\UnitsAndBuilduings\obj\x86\Debug\UnitsAndBuilduings.csprojResolveAssemblyReference.cache
+D:\code\omron\trunk\UnitsAndBuilduings\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\code\omron\trunk\UnitsAndBuilduings\obj\x86\Debug\UnitsAndBuilduings.dll
+D:\code\omron\trunk\UnitsAndBuilduings\obj\x86\Debug\UnitsAndBuilduings.pdb

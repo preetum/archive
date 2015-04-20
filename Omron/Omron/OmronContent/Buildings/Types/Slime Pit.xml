@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="UnitsAndBuilduings.BuilduingTypeInfo">
+    <Health>5000</Health>
+    <Cost>
+      <Item>
+        <Resource>Metal</Resource>
+        <Cost>200</Cost>
+      </Item>
+      <Item>
+        <Resource>Crystal</Resource>
+        <Cost>60</Cost>
+      </Item>
+    </Cost>
+    <SightRange>3</SightRange>
+    <Type>ActionCenter</Type>
+    <SubTypes>
+      <Item>Mite</Item>
+      <Item>GelCube</Item>
+
+    </SubTypes>
+    <SubTypeCosts>
+      <Item>
+        <Item>
+          <Resource>Metal</Resource>
+          <Cost>20</Cost>
+        </Item>
+      </Item>
+      <Item>
+        <Item>
+          <Resource>Metal</Resource>
+          <Cost>55</Cost>
+        </Item>
+        <Item>
+          <Resource>Crystal</Resource>
+          <Cost>20</Cost>
+        </Item>
+      </Item>
+    </SubTypeCosts>
+    <ActionTimes>
+      15
+      32
+    </ActionTimes>
+    <ActionTypes>
+      0
+      0
+    </ActionTypes>
+    <UnlocksNeeded>
+      <Item></Item>
+      <Item></Item>
+    </UnlocksNeeded>
+    <Polygon>
+      <Type>Rectangle</Type>
+      <Width>.6</Width>
+      <Height>.6</Height>
+    </Polygon>
+    <Defense>
+      <Slashing>0.8</Slashing>
+      <Blunt>1.0</Blunt>
+      <Pierce>1.0</Pierce>
+      <Blight>1.0</Blight>
+      <Mining>0</Mining>
+    </Defense>
+    <BuildAnimation>
+      <Animation>SlimePool</Animation>
+      <FPS>0</FPS>
+
+      <Reverse>false</Reverse>
+      <DrawArea>
+        <X>0</X>
+        <Y>0</Y>
+        <Width>1</Width>
+        <Height>1</Height>
+      </DrawArea>
+    </BuildAnimation>
+    <WorkAnimation>
+      <Animation>SlimePool</Animation>
+      <FPS>2</FPS>
+
+      <Reverse>false</Reverse>
+      <DrawArea>
+        <X>0</X>
+        <Y>0</Y>
+        <Width>1</Width>
+        <Height>1</Height>
+      </DrawArea>
+    </WorkAnimation>
+    <IdleAnimation>
+      <Animation>SlimePool</Animation>
+      <FPS>0</FPS>
+
+      <Reverse>false</Reverse>
+      <DrawArea>
+        <X>0</X>
+        <Y>0</Y>
+        <Width>1</Width>
+        <Height>1</Height>
+      </DrawArea>
+    </IdleAnimation>
+    <WorkNeeded>100</WorkNeeded>
+    <Attacks></Attacks>
+    <SpawnAttacks></SpawnAttacks>
+    <CanRotate>false</CanRotate>
+  </Asset>
+</XnaContent>

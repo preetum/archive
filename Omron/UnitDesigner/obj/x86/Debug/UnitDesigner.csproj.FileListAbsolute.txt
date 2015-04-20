@@ -1,0 +1,10 @@
+D:\code\omron\trunk\UnitDesigner\bin\Debug\UnitDesigner.exe
+D:\code\omron\trunk\UnitDesigner\bin\Debug\UnitDesigner.pdb
+D:\code\omron\trunk\UnitDesigner\bin\Debug\UnitsAndBuilduings.dll
+D:\code\omron\trunk\UnitDesigner\bin\Debug\UnitsAndBuilduings.pdb
+D:\code\omron\trunk\UnitDesigner\obj\x86\Debug\UnitDesigner.csprojResolveAssemblyReference.cache
+D:\code\omron\trunk\UnitDesigner\obj\x86\Debug\UnitDesigner.Form1.resources
+D:\code\omron\trunk\UnitDesigner\obj\x86\Debug\UnitDesigner.Properties.Resources.resources
+D:\code\omron\trunk\UnitDesigner\obj\x86\Debug\UnitDesigner.csproj.GenerateResource.Cache
+D:\code\omron\trunk\UnitDesigner\obj\x86\Debug\UnitDesigner.exe
+D:\code\omron\trunk\UnitDesigner\obj\x86\Debug\UnitDesigner.pdb

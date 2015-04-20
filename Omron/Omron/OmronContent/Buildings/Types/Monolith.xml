@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="UnitsAndBuilduings.BuilduingTypeInfo">
+    <Health>99999999</Health>
+    <Cost>
+    </Cost>
+    <SightRange>10</SightRange>
+    <Type>Wall</Type>
+    <SubTypes></SubTypes>
+    <SubTypeCosts></SubTypeCosts>
+    <ActionTimes></ActionTimes>
+    <ActionTypes></ActionTypes>
+    <UnlocksNeeded></UnlocksNeeded>
+    <Polygon>
+      <Type>Hexagon</Type>
+      <Width>1</Width>
+      <Height>1</Height>
+    </Polygon>
+    <Defense>
+      <Slashing>0</Slashing>
+      <Blunt>0</Blunt>
+      <Pierce>0</Pierce>
+      <Blight>0</Blight>
+      <Mining>0</Mining>
+    </Defense>
+    <BuildAnimation>
+      <Animation>MonolithAnim</Animation>
+      <FPS>0</FPS>
+
+      <Reverse>false</Reverse>
+      <DrawArea>
+        <X>0</X>
+        <Y>0</Y>
+        <Width>1</Width>
+        <Height>1</Height>
+      </DrawArea>
+    </BuildAnimation>
+    <WorkAnimation>
+      <Animation>MonolithAnim</Animation>
+      <FPS>0</FPS>
+
+      <Reverse>false</Reverse>
+      <DrawArea>
+        <X>0</X>
+        <Y>0</Y>
+        <Width>1</Width>
+        <Height>1</Height>
+      </DrawArea>
+    </WorkAnimation>
+    <IdleAnimation>
+      <Animation>MonolithAnim</Animation>
+      <FPS>0</FPS>
+
+      <Reverse>false</Reverse>
+      <DrawArea>
+        <X>0</X>
+        <Y>0</Y>
+        <Width>1</Width>
+        <Height>1</Height>
+      </DrawArea>
+    </IdleAnimation>
+
+    <WorkNeeded>10000</WorkNeeded>
+    <Attacks></Attacks>
+    <SpawnAttacks></SpawnAttacks>
+    <CanRotate>false</CanRotate>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="UnitsAndBuilduings.BuilduingTypeInfo">
+    <Health>1000</Health> <!--field for amount of resource here-->
+    <Cost>
+    </Cost>
+    <SightRange>10</SightRange>
+    <Type>Resource</Type> 
+    <SubTypes></SubTypes>
+    <SubTypeCosts>
+      <Item>
+        <Item>
+          <Resource>Crystal</Resource>
+          <Cost>1</Cost>
+        </Item>
+      </Item>
+    </SubTypeCosts>
+    <ActionTimes></ActionTimes>
+    <ActionTypes></ActionTypes>
+    <UnlocksNeeded></UnlocksNeeded>
+    <Polygon>
+      <Type>Rectangle</Type>
+      <Width>.22</Width>
+      <Height>.22</Height>
+    </Polygon>
+    <Defense>
+      <Slashing>0.0</Slashing>
+      <Blunt>0.0</Blunt>
+      <Pierce>0.0</Pierce>
+      <Blight>0.0</Blight>
+      <Mining>0.7</Mining>
+    </Defense>
+    <BuildAnimation>
+      <Animation>CrystalAnim</Animation>
+      <FPS>0</FPS>
+
+      <Reverse>false</Reverse>
+      <DrawArea>
+        <X>0</X>
+        <Y>0</Y>
+        <Width>1.11</Width>
+        <Height>1.11</Height>
+      </DrawArea>
+    </BuildAnimation>
+    <WorkAnimation>
+      <Animation>CrystalAnim</Animation>
+      <FPS>0</FPS>
+
+      <Reverse>false</Reverse>
+      <DrawArea>
+        <X>0</X>
+        <Y>0</Y>
+        <Width>1.11</Width>
+        <Height>1.11</Height>
+      </DrawArea>
+    </WorkAnimation>
+    <IdleAnimation>
+      <Animation>CrystalAnim</Animation>
+      <FPS>0</FPS>
+
+      <Reverse>false</Reverse>
+      <DrawArea>
+        <X>0.0</X>
+        <Y>0.0</Y>
+        <Width>1.33</Width>
+        <Height>1.33</Height>
+      </DrawArea>
+    </IdleAnimation>
+
+    <WorkNeeded>25000</WorkNeeded>
+    <Attacks></Attacks>
+    <SpawnAttacks></SpawnAttacks>
+    <CanRotate>false</CanRotate>
+  </Asset>
+</XnaContent>

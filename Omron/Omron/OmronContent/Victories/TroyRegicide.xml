@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="UnitsAndBuilduings.VictoryTypeInfo">
+    <WinCondition>
+      return false;//world.GetActors().Any(act => act.Type == "Baraks"); //no way to win
+    </WinCondition>
+    <LoseCondition>
+      return !(faction.Actors.Any(act => (act.Type == "Troy")));
+    </LoseCondition>
+    <CheckType>1</CheckType>
+    <CheckTime>0</CheckTime>
+  </Asset>
+</XnaContent>

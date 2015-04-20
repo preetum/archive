@@ -1,0 +1,8 @@
+D:\code\omron\trunk\Lidgren.Network\bin\Debug\Lidgren.Network.XML
+D:\code\omron\trunk\Lidgren.Network\bin\Debug\Lidgren.Network.dll
+D:\code\omron\trunk\Lidgren.Network\bin\Debug\Lidgren.Network.pdb
+D:\code\omron\trunk\Lidgren.Network\bin\Debug\Microsoft.Xna.Framework.dll
+D:\code\omron\trunk\Lidgren.Network\bin\Debug\Microsoft.Xna.Framework.xml
+D:\code\omron\trunk\Lidgren.Network\obj\Debug\Lidgren.Network.csprojResolveAssemblyReference.cache
+D:\code\omron\trunk\Lidgren.Network\obj\Debug\Lidgren.Network.dll
+D:\code\omron\trunk\Lidgren.Network\obj\Debug\Lidgren.Network.pdb
