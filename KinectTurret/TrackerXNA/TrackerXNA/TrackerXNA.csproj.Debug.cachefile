@@ -1,0 +1,8 @@
+Content\font1.xnb
+Content\SphereHighPoly.xnb
+Content\SphereLowPoly.xnb
+cvextern.dll
+opencv_core231.dll
+opencv_features2d231.dll
+opencv_imgproc231.dll
+opencv_objdetect231.dll
