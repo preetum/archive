@@ -1,0 +1,11 @@
+Content\Pixel_img.xnb
+Content\Ball_img.xnb
+Content\fire_img.xnb
+Content\smoke_img.xnb
+Content\asteroid2meh_img.xnb
+Content\chargeTEST_img.xnb
+Content\sensorBASE_img.xnb
+Content\shipbrick_img.xnb
+Content\asteroid1kill_img.xnb
+Content\BasicFont_fnt.xnb
+Content\BasicSmallFont_fnt.xnb

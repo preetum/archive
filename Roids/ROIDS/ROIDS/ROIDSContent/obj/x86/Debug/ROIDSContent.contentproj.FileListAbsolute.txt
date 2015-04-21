@@ -1,0 +1,2 @@
+C:\Users\adam.ryman.MYSRND\Downloads\Roids\ROIDS\ROIDS\ROIDSContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\code\github\archive\Roids\ROIDS\ROIDS\ROIDSContent\obj\x86\Debug\ROIDSContent.contentprojResolveAssemblyReference.cache

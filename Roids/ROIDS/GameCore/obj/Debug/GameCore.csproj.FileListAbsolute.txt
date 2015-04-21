@@ -1,0 +1,5 @@
+C:\Users\adam.ryman.MYSRND\Downloads\Roids\ROIDS\GameCore\bin\Debug\GameCore.dll
+C:\Users\adam.ryman.MYSRND\Downloads\Roids\ROIDS\GameCore\bin\Debug\GameCore.pdb
+C:\Users\adam.ryman.MYSRND\Downloads\Roids\ROIDS\GameCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adam.ryman.MYSRND\Downloads\Roids\ROIDS\GameCore\obj\Debug\GameCore.dll
+C:\Users\adam.ryman.MYSRND\Downloads\Roids\ROIDS\GameCore\obj\Debug\GameCore.pdb

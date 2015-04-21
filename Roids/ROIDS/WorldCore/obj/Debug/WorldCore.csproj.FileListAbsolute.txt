@@ -1,0 +1,7 @@
+C:\Users\adam.ryman.MYSRND\Downloads\Roids\ROIDS\WorldCore\bin\Debug\WorldCore.dll
+C:\Users\adam.ryman.MYSRND\Downloads\Roids\ROIDS\WorldCore\bin\Debug\WorldCore.pdb
+C:\Users\adam.ryman.MYSRND\Downloads\Roids\ROIDS\WorldCore\bin\Debug\Utilities.dll
+C:\Users\adam.ryman.MYSRND\Downloads\Roids\ROIDS\WorldCore\bin\Debug\Utilities.pdb
+C:\Users\adam.ryman.MYSRND\Downloads\Roids\ROIDS\WorldCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adam.ryman.MYSRND\Downloads\Roids\ROIDS\WorldCore\obj\Debug\WorldCore.dll
+C:\Users\adam.ryman.MYSRND\Downloads\Roids\ROIDS\WorldCore\obj\Debug\WorldCore.pdb

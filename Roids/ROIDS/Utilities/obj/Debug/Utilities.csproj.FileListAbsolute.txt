@@ -1,0 +1,5 @@
+C:\Users\adam.ryman.MYSRND\Downloads\Roids\ROIDS\Utilities\bin\Debug\Utilities.dll
+C:\Users\adam.ryman.MYSRND\Downloads\Roids\ROIDS\Utilities\bin\Debug\Utilities.pdb
+C:\Users\adam.ryman.MYSRND\Downloads\Roids\ROIDS\Utilities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adam.ryman.MYSRND\Downloads\Roids\ROIDS\Utilities\obj\Debug\Utilities.dll
+C:\Users\adam.ryman.MYSRND\Downloads\Roids\ROIDS\Utilities\obj\Debug\Utilities.pdb
